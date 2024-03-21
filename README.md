@@ -26,6 +26,6 @@ Install plugins using:
 <Ctrl-a> + I
 ```
 
-## PHP & MySQL
+## PHP, Apache & MySQL
 
 Use at your own risk
